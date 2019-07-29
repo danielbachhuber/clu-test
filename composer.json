@@ -1,0 +1,7 @@
+{
+    "name": "danielbachhuber/clu-test",
+    "type": "project",
+    "require": {
+        "danielbachhuber/composer-lock-updater": ">=0.4.0"
+    }
+}
