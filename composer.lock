@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "da4722e02be70bffaf0666896c4f969b",
+    "content-hash": "fdd8f93a39c17ff89cbae322643a66e4",
     "packages": [
         {
             "name": "danielbachhuber/composer-lock-updater",
-            "version": "v0.4.0",
+            "version": "v0.7.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/danielbachhuber/composer-lock-updater.git",
-                "reference": "b50570d530b6b82573c24f2db0f603358520df3a"
+                "reference": "1dcf47433164bfa338740f530a1781cc7bc8b9d2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/danielbachhuber/composer-lock-updater/zipball/b50570d530b6b82573c24f2db0f603358520df3a",
-                "reference": "b50570d530b6b82573c24f2db0f603358520df3a",
+                "url": "https://api.github.com/repos/danielbachhuber/composer-lock-updater/zipball/1dcf47433164bfa338740f530a1781cc7bc8b9d2",
+                "reference": "1dcf47433164bfa338740f530a1781cc7bc8b9d2",
                 "shasum": ""
             },
             "require-dev": {
@@ -45,7 +45,7 @@
                 }
             ],
             "description": "Run composer-lock-updater in your CI system for bot-powered composer.lock pull requests.",
-            "time": "2019-04-08T20:48:32+00:00"
+            "time": "2019-08-09T16:09:17+00:00"
         }
     ],
     "packages-dev": [],
